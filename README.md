@@ -1,16 +1,18 @@
-### Hi there 👋
+### Aopa Genteeerr
 
-<!--
-**DexteryBoy/dexteryboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sejam bem vindos ao meu perfil do GitHub 😄
 
-Here are some ideas to get you started:
+## Linguas que Uso:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+Poucas né..? 🤔
+        
+
+## Vem conversar:
+
+<div>
+<a href="https://instagram.com/dexteryboy" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/dexteryboy" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+</div>
+Ou me chama no Discord, DexteryBoy
