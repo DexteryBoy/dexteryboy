@@ -1,7 +1,9 @@
 ### Aopa Genteeerr
 
 Sejam bem vindos ao meu perfil do GitHub 😄
-Me chamo Vinicius e tenho 17 anos. Trabalho com hospedagem web desde 2019.
+Me chamo Vinicius e tenho 17 anos. 
+
+Programo desde 2017 e trabalho no ramo das hospedagens web desde 2019.
 
 ## Linguas que Uso:
 
